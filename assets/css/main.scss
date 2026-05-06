@@ -23,3 +23,18 @@ header a {
 header a:hover {
   color: #b85c7a !important;
 }
+
+.site-title,
+.site-title:visited,
+.site-nav a,
+.site-nav a:visited,
+.navigation-list-link {
+  color: #5c2a3d !important;
+  font-weight: 600;
+}
+
+.site-nav a:hover,
+.site-title:hover,
+.navigation-list-link:hover {
+  color: #8a3d5d !important;
+}
