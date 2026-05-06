@@ -1,26 +1,20 @@
 ---
 layout: default
-title: MAE2250 – SLF Trap
+title: Projects
 permalink: /projects/
 ---
 
-# MAE2250: Spotted Lantern Fly Trap
+<h1>Projects</h1>
 
-## Table of Contents
-- [Client Pitch](#client-pitch)
-- [Functional Prototype](#functional-prototype)
-- [Client Report](#client-report)
-
----
-
-## Client Pitch {#client-pitch}
-
----
-
-<a id="functional-prototype"></a>
-## Functional Prototype {#functional-prototype}
-
----
-
-<a id="client-report"></a>
-## Client Report {#client-report}
+<div class="gallery-container">
+  <div class="project-gallery">
+    {% for project in site.projects %}
+      <div class="gallery-item">
+        <a href="{{ project.url | relative_url }}">
+          <img src="{{ project.image | relative_url }}" alt="{{ project.title }}" />
+          <p>{{ project.title }}</p>
+        </a>
+      </div>
+    {% endfor %}
+  </div>
+</div>
