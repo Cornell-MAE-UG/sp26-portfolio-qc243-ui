@@ -1,10 +1,25 @@
----
-# this ensures Jekyll reads the file to be transformed into CSS later
-# only Main files contain this front matter, not partials.
---- 
-
 $color_scheme: '{{ site.color_scheme }}';
 
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Merriweather:wght@400;700&display=swap');
 @import "custom";
 
+.site-header,
+.main-header,
+header {
+  background-color: #ffdce8 !important;
+  border-bottom: 1px solid #f0b8ca !important;
+}
+
+.site-title,
+.site-title:visited,
+.site-nav a,
+.site-nav a:visited,
+header a {
+  color: #8a3d5d !important;
+}
+
+.site-nav a:hover,
+.site-title:hover,
+header a:hover {
+  color: #b85c7a !important;
+}
