@@ -13,21 +13,21 @@ permalink: /projects/mae2250/
 
 ---
 
-## Client Pitch
 <a id="client-pitch"></a>
+## Client Pitch
 
 Your pitch content here...
 
 ---
 
-## Functional Prototype
 <a id="functional-prototype"></a>
+## Functional Prototype
 
 Your prototype content here...
 
 ---
 
-## Client Report
 <a id="client-report"></a>
+## Client Report
 
 Your report content here...
