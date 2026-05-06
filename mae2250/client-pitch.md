@@ -181,4 +181,4 @@ Potential effects on non-target organisms and variability due to weather or time
 
 Hayes, Caitlin. *“Spotted Lanternflies Could Cost NYS Grape Industry Millions.”* Cornell Chronicle, Cornell University, January 27, 2025.
 
-[← Back to Project Overview]({{ '/projects/mae2250/' | relative_url }})
+[← Back to Project Overview]({{ '/sp26-portfolio-qc243-ui/projects/mae2250/' | relative_url }})

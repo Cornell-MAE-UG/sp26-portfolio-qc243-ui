@@ -336,4 +336,4 @@ With these improvements, the system could be scaled for practical vineyard use.
 
 </div>
 
-[← Back to Project Overview]({{ '/projects/mae2250/' | relative_url }})
+[← Back to Project Overview]({{ '/sp26-portfolio-qc243-ui/projects/mae2250/' | relative_url }})
