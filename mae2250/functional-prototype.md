@@ -328,4 +328,4 @@ The prototype is considered successful if:
 
 </div>
 
-[← Back to Project Overview]({{ '/sp26-portfolio-qc243-ui/projects/mae2250/projects/mae2250/' | relative_url }})
+[← Back to Project Overview]({{ '/projects/mae2250/' | relative_url }})
