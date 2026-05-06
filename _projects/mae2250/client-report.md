@@ -2,6 +2,7 @@
 layout: default
 title: Client Report
 permalink: /projects/mae2250/client-report/
+parent: mae2250
 ---
 
 # Client Report: Spotted Lantern Fly Trap
