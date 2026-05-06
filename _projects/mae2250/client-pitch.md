@@ -3,7 +3,7 @@ layout: default
 title: The Spotted Lantern Fly Epidemic
 description: OPD3
 image: /assets/images/images.webp
-permalink: /projects/mae2250/client-pitch/
+permalink: /mae2250/client-pitch/
 parent: mae2250
 ---
 
