@@ -94,11 +94,11 @@ body {
 
   <div class="profile-content">
 
-    <img 
-      src="{{ 'assets/images/IMG_1553.PNG' | relative_url }}" 
-      alt="Profile Picture"
-      class="profile-image"
-    >
+<img 
+    src="{{ 'assets/images/profile_pic.PNG'}}" 
+    alt="Profile Picture"
+    class="profile-image"
+>
 
     <div class="bio-text">
 
