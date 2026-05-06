@@ -47,8 +47,8 @@ SLFs are attracted using a natural attractant (tree-of-heaven sap). Once inside,
 ## Prototype
 
 ### CAD Design
-![Funnel CAD](/assets/images/slf-cad1.png)
-![Container CAD](/assets/images/slf-cad2.png)
+![Funnel CAD](/assets/images/slf-cad-funnel.png)
+![Container CAD](/assets/images/slf-cad-container.png)
 
 ### Physical Prototype
 ![Funnel Prototype](/assets/images/slf-prototype1.png)

@@ -6,6 +6,89 @@ image: /assets/images/images.webp
 permalink: /projects/mae2250/client-pitch/
 nav_exclude: true
 ---
+<style>
+
+.page-content {
+  max-width: 950px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+body,
+.hero,
+.section-card,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+li,
+a {
+  font-family: "Times New Roman", Times, serif;
+}
+
+.hero {
+  background: linear-gradient(135deg, #355e3b, #7ea172);
+  color: white;
+  padding: 4rem 2rem;
+  border-radius: 18px;
+  margin-bottom: 2rem;
+  text-align: center;
+  box-shadow: 0 4px 14px rgba(0,0,0,0.15);
+}
+
+.hero h1 {
+  margin-bottom: 0.5rem;
+  font-size: 3rem;
+}
+
+.hero p {
+  font-size: 1.15rem;
+}
+
+.section-card {
+  background: #f8faf7;
+  border-left: 6px solid #5b8c5a;
+  padding: 2rem;
+  margin: 2rem 0;
+  border-radius: 14px;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.06);
+}
+
+h2 {
+  color: #355e3b;
+  margin-top: 2rem;
+}
+
+h3 {
+  color: #4d7c4f;
+}
+
+strong {
+  color: #355e3b;
+}
+
+ul li {
+  margin-bottom: 0.5rem;
+}
+
+hr {
+  border: none;
+  height: 1px;
+  background: #d7e5d2;
+  margin: 2rem 0;
+}
+
+a {
+  color: #3f6f45;
+}
+
+a:hover {
+  color: #27452c;
+}
+</style>
 
 ## Table of Contents
 - [Problem Statement](#problem-statement)
@@ -97,3 +180,5 @@ Potential effects on non-target organisms and variability due to weather or time
 ## Reference
 
 Hayes, Caitlin. *“Spotted Lanternflies Could Cost NYS Grape Industry Millions.”* Cornell Chronicle, Cornell University, January 27, 2025.
+
+[← Back to Project Overview](/projects/mae2250/)
