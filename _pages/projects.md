@@ -13,15 +13,14 @@ permalink: /projects/
 
 ---
 
-<a id="client-pitch"></a>
-## Client Pitch
+## Client Pitch {#client-pitch}
 
 ---
 
 <a id="functional-prototype"></a>
-## Functional Prototype
+## Functional Prototype {#functional-prototype}
 
 ---
 
 <a id="client-report"></a>
-## Client Report
+## Client Report {#client-report}
