@@ -2,7 +2,6 @@
 layout: default
 title: Lisa Chen
 ---
-
 <style>
 
 body,
@@ -109,7 +108,7 @@ I’m passionate about turning ideas into practical solutions and enjoy combinin
 I’m always eager to expand my knowledge, take on new challenges, and contribute in ways that make a difference.
 
 <div class="links">
-  <a href="{{ '/projects/' | relative_url }}">Projects</a>
+  <a href="{{ '/projects/' | relative_url }}">my projects</a>
   <a href="{{ '/cv/' | relative_url }}">CV</a>
 </div>
 

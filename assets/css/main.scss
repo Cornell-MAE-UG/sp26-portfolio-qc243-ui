@@ -10,29 +10,22 @@ header {
   border-bottom: 1px solid #f0b8ca !important;
 }
 
+/* Site title */
 .site-title,
-.site-title:visited,
-.site-nav a,
-.site-nav a:visited,
-header a {
-  color: #8a3d5d !important;
+.site-title:visited {
+  color: #4a1f30 !important;
+  font-weight: 700 !important;
 }
 
-.site-nav a:hover,
-.site-title:hover,
-header a:hover {
-  color: #b85c7a !important;
-}
-
-.site-title,
-.site-title:visited,
+/* Navigation links */
 .site-nav a,
 .site-nav a:visited,
 .navigation-list-link {
-  color: #5c2a3d !important;
-  font-weight: 600;
+  color: #4a1f30 !important;
+  font-weight: 600 !important;
 }
 
+/* Hover */
 .site-nav a:hover,
 .site-title:hover,
 .navigation-list-link:hover {

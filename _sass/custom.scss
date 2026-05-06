@@ -16,7 +16,10 @@ $text-color: #333;
   $primary-color: #925959;
   $background-color: #f6f1e0;
   $text-color: #1e0101;
-}
+} @else if $color_scheme == 'mine' {
+  $primary-color: #ffdce8;
+  $background-color: #fff7fa;
+  $text-color: #4a1f30; }
 
 
 .navbar, h1, h2, h3, h4, h5, h6 {
@@ -198,4 +201,17 @@ footer {
   transform: translateX(-4px);
 }
 
+header,
+header a,
+header a:visited,
+header .site-title,
+header .site-title a,
+header .site-title a:visited {
+  color: #4a1f30 !important;
+}
+
+header a:hover,
+header .site-title a:hover {
+  color: #8a3d5d !important;
+}
 
