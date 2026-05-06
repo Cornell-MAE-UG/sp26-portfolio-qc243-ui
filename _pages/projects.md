@@ -1,7 +1,7 @@
 ---
 layout: default
 title: MAE2250 – SLF Trap
-permalink: /projects/mae2250/
+permalink: /projects/
 ---
 
 # MAE2250: Spotted Lantern Fly Trap
