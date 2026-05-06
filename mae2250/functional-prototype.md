@@ -328,4 +328,4 @@ The prototype is considered successful if:
 
 </div>
 
-[← Back to Project Overview](/projects/mae2250/)
+[← Back to Project Overview]({{ '/projects/mae2250/' | relative_url }})
