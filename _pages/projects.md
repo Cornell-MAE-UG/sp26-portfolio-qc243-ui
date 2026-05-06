@@ -16,18 +16,12 @@ permalink: /projects/
 <a id="client-pitch"></a>
 ## Client Pitch
 
-Your pitch content here...
-
 ---
 
 <a id="functional-prototype"></a>
 ## Functional Prototype
 
-Your prototype content here...
-
 ---
 
 <a id="client-report"></a>
 ## Client Report
-
-Your report content here...
